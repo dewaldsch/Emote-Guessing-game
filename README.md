@@ -10,9 +10,11 @@ just copy that and paste that in your Lioranboard 2 deck
 
 To open the INI file you can open it in Note pad to change things
 
-for the one labed ***updated Emote Guessing game*** you have to Make
+for the one labed ***UPDATED EMOTE GUESSING GAME*** you have to Make
 
 people join with the command:
+
+(that way people can still chat in the Twitch chat)
 
 ***!join***
 
