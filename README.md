@@ -24,7 +24,8 @@ or
 
 ***!Join***
 
-and if they wanna stop checking for the emote use the command
+and if they wanna stop checking for the emote and just chat
+use the command:
 
 ***!Leave***
 
