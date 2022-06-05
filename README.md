@@ -14,10 +14,9 @@ for the one labed ***UPDATED EMOTE GUESSING GAME*** you have to Make
 
 people join with the command:
 
-***(that way people can still chat in the Twitch chat, also with no more
+***(that way people can still chat in the Twitch chat, also with no more***
 
-worry about Button ID's for the Updated one and will only put 
-chat in 5 second slow mode)***
+***worry about Button ID's for the Updated one and will only put chat in 5 second slow mode)***
 
 ***!join***
 
