@@ -10,23 +10,23 @@ just copy that and paste that in your Lioranboard 2 deck
 
 To open the INI file you can open it in Note pad to change things
 
-for the one labed **updated Emote Guessing game** you have to Make
+for the one labed ***updated Emote Guessing game*** you have to Make
 
 people join with the command:
 
-**!join**
+***!join***
 
 or 
 
-**!Join**
+***!Join***
 
 and if they wanna stop checking for the emote use the command
 
-**!Leave**
+***!Leave***
 
 or
 
-**!leave**
+***!leave***
 
 Also It has a kill switch that stops the game fully and you can
 
