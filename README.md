@@ -30,9 +30,7 @@ or
 
 Also It has a kill switch that stops the game fully and you can
 
-always start the Game Again by pressing the Timer button and Check
-
-Buttton
+always start the Game Again by pressing the Timer button and Check Buttton
 
 Put the rest of the files in the Your main Lioranboard 2 Folder
 
